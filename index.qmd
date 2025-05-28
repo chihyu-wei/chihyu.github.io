@@ -2,6 +2,8 @@
 title: "Chihyu's Website"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I am a Business Analytics student at Boston University, with a strong interest in entrepreneurship, sustainable business, and the intersection of data and strategy.
+Beyond my academic work, I’ve interned at several companies, where I gained practical experience in data analysis, business operations, and strategic planning. These internships have helped me develop a well-rounded perspective—balancing technical skills with real-world business insight.
+Through my consulting and research work, I actively explore and connect with promising B2B SaaS startups, particularly in HR Tech, FinTech, HealthTech, and EdTech across Canada and Europe. I’m passionate about driving growth through data, thoughtful strategy, and impactful partnerships.
+When I’m not working on projects or client research, I enjoy exploring startup ecosystems, learning new digital tools, or experimenting in the kitchen. I’m especially interested in sustainability, innovation, and building systems that create long-term value.
+Interests: Business Analytics, B2B SaaS, Startup Ecosystems, Sustainable Strategy, Data-Driven Decision Making, Innovation
